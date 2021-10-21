@@ -1,0 +1,19 @@
+.course
+{
+    background-color: #eff6ff;
+    padding: 50px 100px;
+}
+.box
+{
+    background-color: #ffffff;
+    padding: 10px 20px;
+}
+p{
+    text-align: justify;
+}
+.card-header{
+    text-align: center;
+}
+.card{
+    background-color: burlywood;
+}
